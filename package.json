@@ -17,5 +17,7 @@
                 "path": "./themes/Oblivion-color-theme.json"
             }
         ]
-    }
+    },
+    "publisher": "AustinHou",
+    "repository": "https://github.com/PhoenixFieryn/oblivion-theme"
 }
